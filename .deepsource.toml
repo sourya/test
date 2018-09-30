@@ -2,7 +2,6 @@ version = 1
 
 exclude_paths = ["foo.py", "foo/bar*.py"]
 
-[analyzer]
-  [analyzer.python]
+[[analyzer]]
   name = "python"
   enabled  = true
