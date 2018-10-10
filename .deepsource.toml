@@ -1,6 +1,6 @@
 version = 1
 
-exclude_paths = ["foo.py", "foo/bar*.py", "baz.py", "foos.c", "dashjdnsaj"]
+exclude_paths = ["foo.py", "foo/bar*.py", "baz.py", "foos.c"]
 
 [[analyzer]]
   name = "python"
