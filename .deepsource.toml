@@ -6,3 +6,4 @@ test_patterns = ["tests/"]
 [[analyzers]]
   name = "python"
   enabled  = true
+  dependency_paths = ["requirements.txt"]
