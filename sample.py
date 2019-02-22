@@ -13,4 +13,3 @@ def some_function():
 
 def some_other_function():
     print("this should raise a documentation related issue.")
-    pass
