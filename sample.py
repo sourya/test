@@ -1,5 +1,6 @@
 import os
 import random
+import this
 
 x = 1
 if x == 1:
