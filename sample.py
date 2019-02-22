@@ -9,3 +9,7 @@ if x == 1:
     
 def some_function():
     print("this should raise a documentation related issue.")
+
+
+def some_other_function():
+    print("this should raise a documentation related issue.")
