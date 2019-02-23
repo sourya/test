@@ -19,3 +19,7 @@ def some_other_function():
     
 def dummy_function():
     print('foo')
+
+def new_dummy_function():
+    print('foobar')
+    raise NotImplemented
