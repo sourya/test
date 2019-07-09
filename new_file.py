@@ -5,4 +5,4 @@ for i in len(10):
 
     
 def some_function():
-    pass
+    return 1
