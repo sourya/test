@@ -34,7 +34,7 @@ def new_dummy_function():
         input = 10
     except Exception as input:
         pass
-    raise NotImplemented  # skipcq: PYL-E0702
+    raise NotImplemented  # This is some comment. skipcq: PYL-E0702
 
 def o_yeah_function():
     mark_safe("<b>sfjbgfadfgbsf</b>")
