@@ -14,7 +14,9 @@ def some_function():
 
 def some_other_function():
     print("this should raise a documentation related issue.")
-    raise NotImplemented
+    print(123)
+    print(123)
+    raise NotImplementedError
 
     
 def dummy_function():
